@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Roleplay Drama</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎭 Roleplay Drama</h1>
+    <div id="card" class="card">
+      <p id="scene-text"></p>
+      <div id="roles">
+        <p id="role1"></p>
+        <p id="role2"></p>
+      </div>
+    </div>
+
+    <div class="buttons">
+      <button onclick="prevCard()">⬅️ Prev</button>
+      <button onclick="nextCard()">➡️ Next</button>
+      <button onclick="saveCard()">💾 Save</button>
+      <button onclick="resetCountdown()">🔄 Reset Timer</button>
+      <button onclick="startCountdown()">🎬 Start Acting</button>
+      <div id="countdown" class="timer">⏱️ 60s</div>
+
+    </div>
+
+    <div id="saved" class="hidden">
+      <h3>Saved Scenes:</h3>
+      <ul id="savedList"></ul>
+    </div>
+    
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

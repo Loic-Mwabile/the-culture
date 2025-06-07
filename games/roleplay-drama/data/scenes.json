@@ -1,0 +1,153 @@
+[
+  {
+    "scene": "Your ex crashes your wedding, claiming you're marrying the wrong person.",
+    "roles": ["You — the shocked bride/groom", "Ex — fully convinced you still love them"]
+  },
+
+  {
+    "scene": "You're at a job interview, but your toxic ex is the interviewer.",
+    "roles": ["You — trying to stay professional", "Interviewer — acting petty and awkward"]
+  },
+  {
+    "scene": "You confess your love to your crush, and they respond with 'Aww, that's sweet.'",
+    "roles": ["You — trying to play it off", "Crush — oblivious to what they just did"]
+  },
+  {
+    "scene": "You and your sibling both show up to the family party wearing the exact same outfit.",
+    "roles": ["You — annoyed and competitive", "Sibling — pretending it's totally fine"]
+  },
+  {
+    "scene": "Your roommate threw a party and forgot to invite you.",
+    "roles": ["You — pretending you're not mad", "Roommate — giving bad excuses"]
+  },
+  {
+    "scene": "You’re on a reality show and just got voted off by your bestie.",
+    "roles": ["You — dramatic exit moment", "Bestie — trying to justify their betrayal"]
+  },
+  {
+    "scene": "Your partner forgot your anniversary, again.",
+    "roles": ["You — deciding if it's the final straw", "Partner — trying to recover the moment"]
+  },
+  {
+    "scene": "You're both exes forced to share an Uber because your apps glitched. You’ve got 5 minutes before drop-off.",
+    "roles": ["Ex with lingering feelings", "Ex who's already moved on"]
+  },
+  {
+    "scene": "One of you is a scammer pretending to be a fortune teller, the other is a super skeptical client.",
+    "roles": ["Fake fortune teller making wild predictions", "Skeptical client hearing something too real"]
+  },
+  {
+    "scene": "You just found out you’re siblings after dating for 2 months.",
+    "roles": ["One who's freaking out", "One who's weirdly chill"]
+  },
+  {
+    "scene": "You're co-hosting a live show, and your co-host just confessed they have feelings for you — on air.",
+    "roles": ["The one who confessed", "The one reacting live on camera"]
+  },
+  {
+    "scene": "You’re best friends. One of you just got accepted to a dream opportunity abroad. The other didn’t.",
+    "roles": ["One who's leaving", "One who's staying behind"]
+  },
+  {
+    "scene": "You're both influencers pretending to love each other for clout — but the camera just went off.",
+    "roles": ["One who wants to keep faking it", "One who caught real feelings"]
+  },
+  {
+    "scene": "You accidentally matched on a dating app not knowing you were coworkers. HR is now involved.",
+    "roles": ["Wants to keep it going secretly", "Trying to stay professional"]
+  },
+  {
+    "scene": "You’ve both been assigned as roommates — one is ultra clean, the other is full goblin mode.",
+    "roles": ["Neat freak roommate", "Goblin-mode roommate"]
+  },
+  {
+    "scene": "You were friends with benefits… until someone caught feelings and wants to make it official.",
+    "roles": ["Caught feelings", "Wants to keep it casual"]
+  },
+  {
+    "scene": "You agreed to fake date for family reasons, but now one of you actually fell in love.",
+    "roles": ["Still faking it", "Falling for real"]
+  },
+  {
+    "scene": "You're both aliens pretending to be human teenagers at school. Someone's starting to get suspicious.",
+    "roles": ["Alien taking it too seriously", "Alien who's slipping up"]
+  },
+  {
+    "scene": "One of you is trying to break up, the other refuses to let go without one final reason.",
+    "roles": ["Trying to leave", "Trying to fix it"]
+  },
+  {
+    "scene": "You run into each other in a club after ghosting one another for months.",
+    "roles": ["The one who ghosted", "The one who was ghosted"]
+  },
+  {
+    "scene": "You’re both at a wedding. One of you just found out your ex is getting married — to your sibling.",
+    "roles": ["Ex's ex", "Bestie trying to hold it together"]
+  },
+  {
+    "scene": "You’re stuck on a long flight together and just realized you're dating the same person.",
+    "roles": ["Angry and shocked", "Calm but ready to fight"]
+  },
+  {
+    "scene": "You and your best friend just realized you accidentally swapped phones for a whole day.",
+    "roles": ["Panicked friend trying to delete embarrassing stuff", "Trying to play it cool while snooping"]
+  },
+  {
+    "scene": "You both got invited to a party but pretended you’re dating to avoid awkward questions.",
+    "roles": ["One acting way too coupley", "One trying to keep it lowkey"]
+  },
+  {
+    "scene": "You’re roommates and just caught each other binge-eating the last snack in the fridge.",
+    "roles": ["The ‘snack thief’ caught red-handed", "The ‘hangry’ roommate confronting them"]
+  },
+  {
+    "scene": "You matched on a dating app but realize you’ve been in the same friend group for years.",
+    "roles": ["Trying to act natural", "Trying to figure out how to tell everyone"]
+  },
+  {
+    "scene": "You and your friend made a bet to confess your crushes to each other — but now it’s awkward.",
+    "roles": ["Nervous confessing friend", "Trying to act surprised but secretly relieved"]
+  },
+  {
+    "scene": "You both signed up for a cooking contest but accidentally sabotaged each other's dishes.",
+    "roles": ["The sneaky saboteur", "The salty competitor"]
+  },
+  {
+    "scene": "You’re stuck sharing a hotel room at a convention with a total stranger — but you vibe better than expected.",
+    "roles": ["Awkward stranger trying to make small talk", "Surprisingly chill roomie"]
+  },
+  {
+    "scene": "You caught your friend texting someone ‘bae’ — turns out, it’s you, but you don’t know yet.",
+    "roles": ["Friend nervously trying to explain", "Confused but curious"]
+  },
+  {
+    "scene": "You and your partner tried to surprise each other with a romantic date but ended up crashing both plans.",
+    "roles": ["Disappointed planner", "Trying to save the mood"]
+  },
+  {
+    "scene": "You just realized you’ve been wearing mismatched shoes all day and your friend didn’t tell you.",
+    "roles": ["Embarrassed fashion disaster", "Trying not to laugh but failing"]
+  },
+  {
+    "scene": "You’re both competing for the same job promotion and get caught gossiping about each other.",
+    "roles": ["The backstabber", "The shocked gossip target"]
+  },
+  {
+    "scene": "You and your friend made a pact to be each other's wingperson, but both accidentally fall for the same crush.",
+    "roles": ["The conflicted wingperson", "The secretly jealous bestie"]
+  },
+  {
+    "scene": "You’re stuck on a long road trip with a stranger who won’t stop telling wild stories.",
+    "roles": ["The storyteller who won’t quit", "The exhausted passenger"]
+  },
+  {
+    "scene": "You and your crush get trapped in an elevator — and only have each other’s phone batteries left.",
+    "roles": ["Trying to stay calm and make conversation", "Trying to come up with an escape plan"]
+  },
+  {
+    "scene": "You and your friend decide to swap outfits for a day — chaos ensues.",
+    "roles": ["The one regretting the swap", "The one loving the new look"]
+  }
+]
+
+
