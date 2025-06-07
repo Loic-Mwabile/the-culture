@@ -1,0 +1,35 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #111;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  max-width: 500px;
+  text-align: center;
+  padding: 20px;
+}
+
+#scenario-text {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #333;
+  color: #fff;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #555;
+}

@@ -1,0 +1,449 @@
+[
+
+  {
+    "scenario": "Your ex texts 'I miss us' the same night you were finally moving on. What do you reply?",
+    "options": [
+      "'We had a good run, but I’m good now.'",
+      "Block and delete — no looking back",
+      "'I miss the idea of us, not the reality.'",
+      "'Wanna talk?' (big risk, big drama)"
+    ]
+  },
+  {
+    "scenario": "You find your best friend's partner on a dating app. What now?",
+    "options": [
+      "Screenshot and send to your friend",
+      "DM the partner like 'I see you 👀'",
+      "Talk to the partner face-to-face first",
+      "Ignore — not your circus, not your monkey"
+    ]
+  },
+  {
+    "scenario": "You get offered ₹10 lakhs to promote a product you don’t believe in. What’s your move?",
+    "options": [
+      "Take the bag and bounce from socials later",
+      "Negotiate more money then donate it",
+      "Publicly reject them and flex your morals",
+      "Secretly do it on a burner account"
+    ]
+  },
+  {
+    "scenario": "You’re broke but a sketchy crypto scheme promises fast money. You in?",
+    "options": [
+      "Risk it all — broke anyway",
+      "Invest ₹500 only — test the waters",
+      "Nah, I’ve learned my lesson",
+      "Tell your rich friend to test it for you"
+    ]
+  },
+  {
+    "scenario": "You overhear your crush saying you're just a friend. What do you do?",
+    "options": [
+      "Act even friendlier to hide the pain",
+      "Ghost them lowkey",
+      "Confront with a meme and a 'fr tho?'",
+      "Fall harder (self-sabotage unlocked)"
+    ]
+  },
+  {
+    "scenario": "Your partner’s close with someone they used to date. What’s the vibe?",
+    "options": [
+      "Trust them fully — no drama",
+      "Set clear boundaries fast",
+      "Start hanging out with your ex too 😏",
+      "Keep tabs like it’s a Netflix docuseries"
+    ]
+  },
+  {
+    "scenario": "You win ₹1 crore but your best friend thinks it was ₹10 lakh. Do you tell them?",
+    "options": [
+      "Tell them the truth and split fair",
+      "Let them think whatever and stay rich",
+      "Buy them something expensive instead",
+      "Tell them when they need help"
+    ]
+  },
+  {
+    "scenario": "You get ₹1 lakh only to spend on *you*. What are you doing?",
+    "options": [
+      "Glow-up makeover and spa tour",
+      "Book a solo trip with zero itinerary",
+      "Invest it all in a personal project",
+      "Buy gadgets and flex like it’s Christmas"
+    ]
+  },
+
+  {
+    "scenario": "Your phone shows you the one app you wasted the most life on. What is it?",
+    "options": [
+      "Instagram, obviously",
+      "YouTube, but make it educational",
+      "WhatsApp convos that went nowhere",
+      "That random astrology app you check daily"
+    ]
+  },
+  {
+    "scenario": "You have to tell your parents one hard truth. What is it?",
+    "options": [
+      "I’m not who you think I am",
+      "I don’t want your dream for me",
+      "I’ve been struggling more than I show",
+      "I still love you, but I need space"
+    ]
+  },
+  {
+    "scenario": "You get the chance to start a passion project with no pressure. What is it?",
+    "options": [
+      "A podcast spilling life tea",
+      "A nonprofit that actually helps people",
+      "A traveling food blog",
+      "An app that solves a daily pain"
+    ]
+  },
+  {
+    "scenario": "Your anxiety turns into a person and sits across from you. What do you say?",
+    "options": [
+      "Why are you so loud in silence?",
+      "You don’t run me anymore",
+      "Let’s be friends but with boundaries",
+      "Can you at least chill after midnight?"
+    ]
+  },
+  {
+    "scenario": "You can only keep one: romantic love, deep friendships, or endless freedom. What stays?",
+    "options": [
+      "Love — I'm a softie at heart",
+      "Friendships — chosen family wins",
+      "Freedom — I ride solo",
+      "None — I’m in my mystery arc"
+    ]
+  },
+  {
+    "scenario": "A future version of you visits and looks disappointed. What’s the reason?",
+    "options": [
+      "Too much scrolling, not enough living",
+      "Letting fear drive every decision",
+      "Holding on to what should’ve been released",
+      "Caring more about vibes than values"
+    ]
+  },
+  {
+    "scenario": "You can post one brutally honest tweet about your life. What’s the vibe?",
+    "options": [
+      "Healing silently hits harder than flexing progress",
+      "I’m tired of pretending I’m okay",
+      "I overthink every damn thing",
+      "Nobody knows I’m actually trying my best"
+    ]
+  },
+  {
+    "scenario": "You’re offered your dream life, but your family will never understand you. Do you take it?",
+    "options": [
+      "Yes, I’ll explain it when I make it",
+      "No, family comes first",
+      "Yes, but secretly try to prove it to them",
+      "No, I’d rather suffer than be alone in success"
+    ]
+  },
+  {
+    "scenario": "You’re suddenly famous for the worst moment of your life. What’s your move?",
+    "options": [
+      "Own it and turn it into a meme",
+      "Disappear from the internet completely",
+      "Drop a podcast to explain everything",
+      "Sell merch with the moment on it"
+    ]
+  },
+  {
+    "scenario": "You’re asked to describe yourself without mentioning work, school, or looks. What do you say?",
+    "options": [
+      "I’m curious and chaotic in equal parts",
+      "I give too much and think too deep",
+      "I’m trying — and that’s enough",
+      "I’m a storm dressed as a calm day"
+    ]
+  },
+  {
+    "scenario": "Your biggest dream comes true — but you lose your current circle. Still worth it?",
+    "options": [
+      "Yes, dreams over comfort",
+      "No, people > goals",
+      "I’ll try to rebuild the circle after",
+      "Depends on how deep the loss feels"
+    ]
+  },
+  {
+    "scenario": "You find a note from your younger self saying: 'Please don’t become them.' What are you doing now?",
+    "options": [
+      "Quitting my job immediately",
+      "Calling someone I ghosted",
+      "Throwing out that mask I wear daily",
+      "Changing nothing — I needed to become this"
+    ]
+  },
+  {
+    "scenario": "You’re in a room with everyone you ever hurt emotionally. What’s your move?",
+    "options": [
+      "Apologize to each one personally",
+      "Ask who wants to talk, one by one",
+      "Sit in silence and take it all in",
+      "Walk out — too much to process"
+    ]
+  },
+  {
+    "scenario": "You can erase one label people associate with you. What are you removing?",
+    "options": [
+      "‘Lazy’ when I’m just burnt out",
+      "‘Too emotional’ when I’m just human",
+      "‘Smart’ because it’s exhausting",
+      "‘Strong’ because I’m tired of pretending"
+    ]
+  },
+  {
+    "scenario": "You must pick a new identity to live under for 1 year. What’s your vibe?",
+    "options": [
+      "Digital nomad with no phone",
+      "Underground artist in a small town",
+      "Luxury minimalist who posts nothing",
+      "Spiritual monk who gives TED Talks"
+    ]
+  },
+  {
+    "scenario": "You’re gifted 24 hours of pure peace. How do you spend it?",
+    "options": [
+      "Sleeping with no alarms or guilt",
+      "Journaling in nature with no Wi-Fi",
+      "Rewatching your comfort shows",
+      "Calling people you miss but won’t admit it"
+    ]
+  },
+  {
+    "scenario": "Someone makes a short film based on your current life. What’s the ending scene?",
+    "options": [
+      "You leaving without saying goodbye",
+      "You crying alone in a bathroom then smiling",
+      "You walking into the unknown but hopeful",
+      "You sitting in silence, finally at peace"
+    ]
+  },
+  {
+    "scenario": "You’re stuck dealing with generational trauma. How do you break the cycle?",
+    "options": [
+      "Face it head-on and get therapy",
+      "Distract yourself and avoid it",
+      "Change your environment completely",
+      "Accept it as part of your story"
+    ]
+  },
+  {
+    "scenario": "Living in two cultures but feeling like you belong to neither. What’s your move?",
+    "options": [
+      "Create your own blended identity",
+      "Choose one culture fully",
+      "Keep switching depending on situation",
+      "Reject both and go solo"
+    ]
+  },
+  {
+    "scenario": "Respect your family or chase your freedom? Which side wins?",
+    "options": [
+      "Respect family, even if it means sacrifice",
+      "Choose freedom, even if it hurts family",
+      "Try to balance both but lean freedom",
+      "Ignore both and live your own way"
+    ]
+  },
+  {
+    "scenario": "Roommate steals your idea and gets credit. What do you do?",
+    "options": [
+      "Call them out publicly",
+      "Confront them privately",
+      "Let it slide and work harder",
+      "Sabotage their next idea"
+    ]
+  },
+  {
+    "scenario": "Best friend ghosts you during a rough patch. How you respond?",
+    "options": [
+      "Reach out and check on them",
+      "Give them space, they’ll come back",
+      "Cut ties, loyalty means everything",
+      "Talk to mutual friends for answers"
+    ]
+  },
+  {
+    "scenario": "Your old friend just blew up and forgot you. How do you handle it?",
+    "options": [
+      "Celebrate their success genuinely",
+      "Feel jealous but keep it quiet",
+      "Call them out on their behavior",
+      "Move on and find new friends"
+    ]
+  },
+  {
+    "scenario": "Investing in sketchy crypto with huge hype. You in or out?",
+    "options": [
+      "Go all in, risk it for reward",
+      "Dip small toes, don’t get greedy",
+      "Stay out, stick to safe options",
+      "Warn others but invest anyway"
+    ]
+  },
+  {
+    "scenario": "Feeling pressured to live a luxury lifestyle you can’t afford. What’s next?",
+    "options": [
+      "Fake it till you make it",
+      "Reject the pressure, live simply",
+      "Borrow money to keep up",
+      "Focus on saving and long term goals"
+    ]
+  },
+  {
+    "scenario": "Your broke family needs help but you’re struggling too. What do you do?",
+    "options": [
+      "Help them anyway, family first",
+      "Set boundaries and offer advice",
+      "Ignore to protect your finances",
+      "Help only when you’re stable"
+    ]
+  },
+  {
+    "scenario": "You just got publicly humiliated and it’s viral. What’s your play?",
+    "options": [
+      "Own the moment and joke about it",
+      "Delete all social media",
+      "Make a serious public apology",
+      "Ignore it and move on silently"
+    ]
+  },
+  {
+    "scenario": "A dark secret you told in therapy leaks out. How do you react?",
+    "options": [
+      "Confront those responsible",
+      "Go offline completely",
+      "Laugh it off with friends",
+      "Seek legal action"
+    ]
+  },
+  {
+    "scenario": "Caught between two lovers and both want answers. What’s your move?",
+    "options": [
+      "Be honest with both, no matter what",
+      "Pick one and cut the other off",
+      "Keep playing both sides quietly",
+      "Take a break from dating altogether"
+    ]
+  }, 
+  {
+    "scenario": "You’re given a chance to move abroad for your dream job, but your situationship just got serious. What’s your move?",
+    "options": [
+      "Long-distance it and see what happens",
+      "Let them go, focus on the opportunity",
+      "Ask them to come with you",
+      "Turn down the job and stay"
+    ]
+  },
+  {
+    "scenario": "You find out your partner has a finsta where they rant about you. What now?",
+    "options": [
+      "Bring it up and demand answers",
+      "Watch quietly to see more",
+      "Laugh it off, everyone vents",
+      "Confront them and break it off"
+    ]
+  },
+  {
+    "scenario": "You get invited to an exclusive party with celebs, but it’s your sibling’s birthday. What are you choosing?",
+    "options": [
+      "Cancel plans and party — once in a lifetime",
+      "Take your sibling with you",
+      "Celebrate with fam first, then dip",
+      "Skip the party, blood over clout"
+    ]
+  },
+  {
+    "scenario": "Your friend wants to start a business with you but has zero experience. What do you do?",
+    "options": [
+      "Say yes and figure it out together",
+      "Offer to support but not partner",
+      "Say no and suggest learning first",
+      "Start without them and risk drama"
+    ]
+  },
+  {
+    "scenario": "You accidentally text something shady about someone… to that same person. What’s your recovery plan?",
+    "options": [
+      "Own it and apologize immediately",
+      "Say it was a joke",
+      "Say someone used your phone",
+      "Block and disappear 😬"
+    ]
+  },
+  {
+    "scenario": "You’re offered a huge salary, but the job drains your soul. What now?",
+    "options": [
+      "Take it for now, stack the money",
+      "Decline, your peace matters more",
+      "Try it short-term, see how it goes",
+      "Use it as leverage to land better work"
+    ]
+  },
+  {
+    "scenario": "You have to choose one: constant comfort or occasional chaos with growth. What’s your pick?",
+    "options": [
+      "Comfort — I just want peace",
+      "Chaos — that’s where growth is",
+      "Mix — I need both to thrive",
+      "Neither — I’m making my own path"
+    ]
+  },
+  {
+    "scenario": "Your situationship starts getting serious but refuses to define it. Your move?",
+    "options": [
+      "Push for clarity now",
+      "Ride the wave and see where it goes",
+      "Pull away emotionally",
+      "End it before you get hurt"
+    ]
+  },
+  {
+    "scenario": "A close friend starts copying your entire personality online. What’s your reaction?",
+    "options": [
+      "Call them out straight up",
+      "Laugh and let it slide",
+      "Change your vibe completely",
+      "Throw subtle shade in your stories"
+    ]
+  },
+  {
+    "scenario": "You have one week to live completely for yourself. No guilt, no judgment. What do you do?",
+    "options": [
+      "Travel solo, no phone",
+      "Try everything you’ve been scared of",
+      "Say all the unspoken things",
+      "Do absolutely nothing and recharge"
+    ]
+  },
+  {
+    "scenario": "You catch feelings for someone who doesn’t believe in relationships. What’s your move?",
+    "options": [
+      "Stay and try to change their mind",
+      "Keep it casual and protect yourself",
+      "Dip before you fall deeper",
+      "Be honest and risk it all"
+    ]
+  },
+  {
+    "scenario": "Your ex starts dating someone who looks just like you. How are you reacting?",
+    "options": [
+      "Laugh — that’s a compliment",
+      "Cringe but move on",
+      "Confront them just to stir things up",
+      "Flex on socials and live your best life"
+    ]
+  }
+]
+
+
+
+
