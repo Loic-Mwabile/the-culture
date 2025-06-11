@@ -69,10 +69,6 @@
     "roles": ["Still faking it", "Falling for real"]
   },
   {
-    "scene": "You're both aliens pretending to be human teenagers at school. Someone's starting to get suspicious.",
-    "roles": ["Alien taking it too seriously", "Alien who's slipping up"]
-  },
-  {
     "scene": "One of you is trying to break up, the other refuses to let go without one final reason.",
     "roles": ["Trying to leave", "Trying to fix it"]
   },
@@ -89,20 +85,8 @@
     "roles": ["Angry and shocked", "Calm but ready to fight"]
   },
   {
-    "scene": "You and your best friend just realized you accidentally swapped phones for a whole day.",
-    "roles": ["Panicked friend trying to delete embarrassing stuff", "Trying to play it cool while snooping"]
-  },
-  {
     "scene": "You both got invited to a party but pretended you’re dating to avoid awkward questions.",
     "roles": ["One acting way too coupley", "One trying to keep it lowkey"]
-  },
-  {
-    "scene": "You’re roommates and just caught each other binge-eating the last snack in the fridge.",
-    "roles": ["The ‘snack thief’ caught red-handed", "The ‘hangry’ roommate confronting them"]
-  },
-  {
-    "scene": "You matched on a dating app but realize you’ve been in the same friend group for years.",
-    "roles": ["Trying to act natural", "Trying to figure out how to tell everyone"]
   },
   {
     "scene": "You and your friend made a bet to confess your crushes to each other — but now it’s awkward.",
@@ -123,10 +107,6 @@
   {
     "scene": "You and your partner tried to surprise each other with a romantic date but ended up crashing both plans.",
     "roles": ["Disappointed planner", "Trying to save the mood"]
-  },
-  {
-    "scene": "You just realized you’ve been wearing mismatched shoes all day and your friend didn’t tell you.",
-    "roles": ["Embarrassed fashion disaster", "Trying not to laugh but failing"]
   },
   {
     "scene": "You’re both competing for the same job promotion and get caught gossiping about each other.",

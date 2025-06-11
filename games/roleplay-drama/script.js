@@ -3,6 +3,8 @@ let shuffledDeck = [];
 let currentIndex = 0;
 let history = [];
 let saved = [];
+const startSound = document.getElementById("start-sound");
+const timeoutSound = document.getElementById("timeout-sound");
 
 async function loadCards() {
   const res = await fetch("data/scenes.json");
@@ -59,6 +61,7 @@ window.onload = loadCards;
 let countdownInterval;
 
 function startCountdown() {
+  startSound.play();
   let timeLeft = 60;
   const countdownEl = document.getElementById("countdown");
   countdownEl.textContent = `⏱️ ${timeLeft}s`;
@@ -70,6 +73,7 @@ function startCountdown() {
     if (timeLeft <= 0) {
       clearInterval(countdownInterval);
       countdownEl.textContent = "🎭 Scene Over!";
+      timeoutSound.play();
     } else {
       countdownEl.textContent = `⏱️ ${timeLeft}s`;
     }

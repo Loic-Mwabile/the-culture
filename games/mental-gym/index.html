@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mental Gym</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>Mental Gym 🧠</h1>
+    
+    <!-- Prompt Display -->
+    <div id="prompt-box">Loading prompt...</div>
+    
+    <!-- Phase Indicator -->
+    <div id="phase-indicator">Get Ready...</div>
+    
+    <!-- Timer -->
+    <div id="timer">30</div>
+    
+    <!-- Existing button area -->
+    <div class="controls">
+        <button id="start-btn">▶️ Start Timer</button>
+        <button id="reset-btn">⏹️ Reset Timer</button>
+        <button id="skip-phase-btn">➡️ Skip Phase</button>
+        <button id="prevBtn">⏮️ Previous</button>
+        <button id="skip-prompt-btn">⏭️ Next Prompt</button>
+    </div>
+
+    <audio id="start-sound" src="sounds/start.mp3"></audio>
+    <audio id="timeout-sound" src="sounds/timeout.mp3"></audio>
+
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

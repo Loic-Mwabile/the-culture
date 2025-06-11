@@ -441,8 +441,234 @@
       "Confront them just to stir things up",
       "Flex on socials and live your best life"
     ]
+  },
+  {
+    "scenario": "You get caught using an AI clone of yourself to handle your social life. What now?",
+    "options": [
+      "Laugh it off and say you were experimenting",
+      "Apologize and delete the bot publicly",
+      "Double down and market it as a service",
+      "Go offline until it blows over"
+    ]
+  },
+  {
+    "scenario": "You go viral for the worst moment of your life. What’s your damage control plan?",
+    "options": [
+      "Turn it into a meme and laugh with the crowd",
+      "Drop a long heartfelt video explanation",
+      "Disown the internet and vanish",
+      "Sell merch and cash in on the chaos"
+    ]
+  },
+  {
+    "scenario": "You pretend to be broke to test your friends. One fails hard. What now?",
+    "options": [
+      "Cut them off — test failed",
+      "Call them out and talk it out",
+      "Keep quiet and act accordingly",
+      "Give them a second chance, lowkey"
+    ]
+  },
+  {
+    "scenario": "You meet your future self in a dream and they’re begging you to change something. What’s your first move?",
+    "options": [
+      "Ask what went wrong — now you’re paranoid",
+      "Ignore the dream — probably just stress",
+      "Change one habit instantly just in case",
+      "Spiral and rethink your whole path"
+    ]
+  },
+  {
+    "scenario": "You get a message from another timeline version of you. What’s your reply?",
+    "options": [
+      "Ask if they’re happier",
+      "Send back a deep question",
+      "Ghost yourself — too creepy",
+      "Try to switch lives with them"
+    ]
+  },
+  {
+    "scenario": "The universe sends you a clear sign… and you misread it. What happens next?",
+    "options": [
+      "Chase the wrong path full speed",
+      "Realize too late and regret it",
+      "Create your own meaning anyway",
+      "Laugh — maybe signs are a scam"
+    ]
+  },
+  {
+    "scenario": "You fall hard for your sibling’s best friend. What now?",
+    "options": [
+      "Go for it, sibling will deal",
+      "Crush silently forever",
+      "Confess and risk everything",
+      "Try to move on — it’s messy"
+    ]
+  },
+  {
+    "scenario": "You start catching deep feelings for your therapist. What do you do?",
+    "options": [
+      "Tell them and switch therapists",
+      "Ignore it and focus on healing",
+      "Spiral into confusion",
+      "Write about it in your notes app only"
+    ]
+  },
+  {
+    "scenario": "You're turned on by someone completely wrong for you. What’s the move?",
+    "options": [
+      "Play with fire anyway",
+      "Walk away fast — red flags",
+      "Try to be friends only (good luck)",
+      "Confess and deal with the chaos"
+    ]
+  },
+  {
+    "scenario": "You lose all your memories but keep your personality. Who are you now?",
+    "options": [
+      "A blank slate with vibes",
+      "Still kinda me, just free now",
+      "A stranger to everyone",
+      "More honest than ever"
+    ]
+  },
+  {
+    "scenario": "You can erase one emotion from your life forever. Which goes?",
+    "options": [
+      "Shame — I’m tired of hiding",
+      "Jealousy — it ruins everything",
+      "Fear — but is that even safe?",
+      "Guilt — I’d move easier"
+    ]
+  },
+  {
+    "scenario": "You hear your inner critic out loud for 24 hours. What’s the effect?",
+    "options": [
+      "Break down completely",
+      "Call it out and talk back",
+      "Laugh — it’s ridiculous",
+      "Learn something real"
+    ]
+  },
+  {
+    "scenario": "Your ex offers you ₹50k just for one last convo. What do you do?",
+    "options": [
+      "Take the money, have the talk",
+      "Say no — peace costs more",
+      "Negotiate for more tea",
+      "Ghost them again, richer this time"
+    ]
+  },
+  {
+    "scenario": "You’re broke and someone offers sugar baby vibes — no strings. What’s your vibe?",
+    "options": [
+      "Say yes, get that bag",
+      "Say no — too messy inside",
+      "Ask for emotional terms too",
+      "Pretend you’re considering but ghost"
+    ]
+  },
+  {
+    "scenario": "Your bestie asks you to lie for them — it could ruin someone’s life. What now?",
+    "options": [
+      "Lie, loyalty first",
+      "Refuse and risk the friendship",
+      "Negotiate your way out of it",
+      "Lie a little — half-truths only"
+    ]
+  },
+  {
+    "scenario": "You get invited to a reality show where you have to pretend to be someone else — but everyone there is doing the same. Do you go?",
+    "options": [
+      "Hell yes, I was born for this",
+      "Nope, I already fake too much",
+      "Only if I can win something",
+      "Yes, but I play myself pretending to be someone else"
+    ]
+  },
+  {
+    "scenario": "A brand offers you ₹5L to fake a relationship online for 3 months. What’s the move?",
+    "options": [
+      "Take the bag and act your heart out",
+      "Say no, you value real love",
+      "Do it but drop hints it’s fake",
+      "Say yes and accidentally catch feelings"
+    ]
+  },
+  {
+    "scenario": "A deepfake of you says wild stuff online and people believe it. What now?",
+    "options": [
+      "Clear your name publicly",
+      "Use it as a decoy persona",
+      "Start trolling with it",
+      "Quit the internet"
+    ]
+  },
+  {
+    "scenario": "You find out your favorite celeb secretly stalks your profile. What's your next move?",
+    "options": [
+      "Slide into their DMs",
+      "Make your profile even more fire",
+      "Confront them playfully",
+      "Ignore it but never forget"
+    ]
+  },
+  {
+    "scenario": "A rich stranger says they’ll fund your dreams — no questions asked. Catch: you can't know who they are. Do you accept?",
+    "options": [
+      "Yes — mystery makes it cooler",
+      "Nope — sounds like a trap",
+      "Only if there’s no strings",
+      "Take it and try to uncover them"
+    ]
+  },
+  {
+    "scenario": "Your private journal leaks and people start quoting your darkest thoughts. Reaction?",
+    "options": [
+      "Publicly own it — no shame",
+      "Deny everything — AI wrote it",
+      "Delete socials, rebrand silently",
+      "Start a podcast explaining your 'truth'"
+    ]
+  },
+  {
+    "scenario": "You wake up in a world where everyone knows your deepest fear. How do you survive?",
+    "options": [
+      "Own it and go viral",
+      "Hide — this is a nightmare",
+      "Face it head-on",
+      "Fake a weirder fear to confuse them"
+    ]
+  },
+  {
+    "scenario": "You get a chance to erase your digital past — no trace of your online self ever. Do you?",
+    "options": [
+      "Yes — fresh start, clean slate",
+      "No — my cringe made me",
+      "Only the worst parts",
+      "Back it up first, just in case"
+    ]
+  },
+  {
+    "scenario": "You’re offered a role in a controversial film that goes against your values, but it guarantees fame. Your call?",
+    "options": [
+      "Take it — fame opens doors",
+      "Pass — peace > popularity",
+      "Negotiate to change the script",
+      "Do it anonymously"
+    ]
+  },
+  {
+    "scenario": "You’re forced to spend a year living exactly as your online persona. Think: same filters, same energy, 24/7. How’s that go?",
+    "options": [
+      "Crack under pressure",
+      "Thrive — I am that persona",
+      "Get exposed and cancelled",
+      "Learn who I really am"
+    ]
   }
 ]
+
 
 
 
