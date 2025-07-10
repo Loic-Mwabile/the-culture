@@ -65,17 +65,27 @@ To build a digital space called **The Culture**, where people can easily access 
 
 ---
 
-### ✅ Suggested Next Steps
+### ✅ Deployment Instructions
 
-If you're ready to move forward like a real engineer:
+1. **GitHub Pages**:
+   - Push your code to GitHub
+   - Go to your repository settings
+   - Navigate to "Pages" section
+   - Select "main" branch as source
+   - Your site will be live at `https://<username>.github.io/the-culture`
 
-1. **Create a GitHub Repo** – Title: `the-culture`
-2. **Add a README.md** with the content above.
-3. **Decide your tech stack**:
+2. **Netlify**:
+   - Create an account at https://netlify.com
+   - Connect your GitHub repository
+   - Set build command to `npm run build`
+   - Set publish directory to `/`
+   - Deploy with one click
 
-   * HTML + CSS + JS (starter)
-   * OR React + Tailwind (for a scalable setup)
-4. **Design prompt data structure** (we can do that together next)
-5. **Build MVP with Table Topics & Hypothetical Situations**
+3. **Vercel**:
+   - Create an account at https://vercel.com
+   - Connect your GitHub repository
+   - Set build command to `npm run build`
+   - Set output directory to `/`
+   - Deploy with one click
 
 ---

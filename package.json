@@ -1,0 +1,21 @@
+{
+  "name": "the-culture",
+  "version": "1.0.0",
+  "description": "A social gaming platform that brings people together through interactive games",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo \"No build step required for static site\""
+  },
+  "keywords": [
+    "social",
+    "games",
+    "interactive",
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
